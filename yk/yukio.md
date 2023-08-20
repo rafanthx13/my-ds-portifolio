@@ -2,6 +2,20 @@
 
 https://docs.google.com/document/d/1PafszGngnmfcolkjHqILyT_dvo9uul3P1XKI-ejLvH4/edit?usp=sharing
 
+## Videos
+
+
+(28/03/2023)
++ ML e usando ChatGPT Link do 1° encontro, sobre portfólios: https://youtu.be/-_Nn1O6ZAgo
++ Link do 2° encontro, sobre machine learning usando chatGPT: https://youtu.be/hS1uTbQtQ9c
+
+29/05/2023
+Gravação da aula de Regressão Linear voltada para inferência: https://youtu.be/5W8xhnL39dw (1h24min)
+
+## Esse projeto ficou show
+
+https://github.com/Sampaio-Vitor/projeto_olx
+
 ## Index
 
 ## CUrsos que recomenda
